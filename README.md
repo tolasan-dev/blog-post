@@ -2,7 +2,7 @@
 **Project Name:** `frontend-blog`  
 **Scope:** Pure Frontend (HTML + CSS + Bootstrap 5.3.3 )  
 **Purpose:** Connect & consume backend API collection (Profile → Category → Article → Thumbnail)  
-**Team:** NumberOne
+**Team:** GOne
 
 
 
@@ -41,6 +41,7 @@ frontend-blog/                  ← ឈ្មោះ folder ឫ project
 ├── uploads/                    # Preview file មុន upload → git ignore!
 ├── .gitignore                  # មាន rule /uploads/ រួចហើយ
 └── README.md                   # ឯកសារ នេះត្រូវ update ជានិច្ច
+
 
 
 
