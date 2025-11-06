@@ -1,8 +1,8 @@
-# README.md – Frontend Blog Dashboard  
+# README.md – Frontend Blog-Post 
 **Project Name:** `frontend-blog`  
 **Scope:** Pure Frontend (HTML + CSS + Bootstrap 5.3.3 )  
 **Purpose:** Connect & consume backend API collection (Profile → Category → Article → Thumbnail)  
-**Team:** Frontend Only – Cambodia (KH)  
+**Team:** NumberOne
 **No backend code, no database, no Node.js**
 
 ```bash
@@ -42,4 +42,5 @@ frontend-blog/
 ├── uploads/                 # Preview file មុន upload (git ignore)
 ├── .gitignore
 └── README.md                # ឯកសារ នេះ
+
 
